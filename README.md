@@ -22,6 +22,7 @@ This dataset was chosen because it contains a variety of attributes that directl
 
 
 5.	IMPORTANCE OF THE DATASET
+   
 The CarDekho dataset holds significant importance for several reasons:
 1.	Market Insights: The dataset offers a clear picture of the used car market, enabling businesses and sellers to gain valuable insights into pricing trends and consumer preferences.
 2.	Price Optimization: By examining the factors influencing selling price, businesses can optimize their pricing strategies to stay competitive in the market.
@@ -29,6 +30,7 @@ The CarDekho dataset holds significant importance for several reasons:
 4.	Predictive Analytics: The dataset supports the development of machine learning models capable of predicting car prices based on key features, helping both buyers and sellers assess car values more accurately.
 
 6.	IMPACT ON THE FUTURE AND SOCIETY
+   
 The impact of this dataset on the future and society can be seen in various ways:
 1.	Sustainability: By understanding and optimizing the used car market, businesses can encourage the resale of vehicles, contributing to a more sustainable economy. This reduces waste and lowers the demand for new vehicle manufacturing, helping to reduce the environmental impact of the automotive industry.
 2.	Access to Affordable Vehicles: The availability of competitively priced used cars enhances mobility for individuals, especially in developing economies where access to new cars might be limited.
